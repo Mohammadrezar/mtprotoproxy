@@ -3,9 +3,9 @@
 
 
 # TeleDiamond #
-> Our Channel : [Join Us](https://t.me/telediamondch)
+> Our Channel : [Join Channel](https://t.me/telediamondch)
 
-> ProxyChannel : [Join Us](https://t.me/mtpproxyir)
+> ProxyChannel : [Join Channel](https://t.me/mtpproxyir)
 
 
 [برای اموزش نصب کلیک کنید](https://t.me/telediamondch)
