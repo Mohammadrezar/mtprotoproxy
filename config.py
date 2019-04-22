@@ -1,9 +1,10 @@
-PORT = 3256
+# Channel : @TeleDiamondCh == @Mrr619
+PORT = 219
 
 # name -> secret (32 hex chars)
 USERS = {
     "tg":  "00000000000000000000000000000000",
-    "tg2": "0123456789abcdef0123456789abcdef"
+    "tg2": "0123456789TeleDiamondCh123456789"
 }
 
 # Makes the proxy harder to detect
